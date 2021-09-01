@@ -10,3 +10,4 @@ add_executable(5 "코딩테스트를 위한 자료 구조와 알고리즘 with C
 add_executable(2512 백준/2512/2512.cpp)
 add_executable(2485 백준/2485/2485.cpp)
 add_executable(2512-1 백준/2512/2512-1.cpp)
+add_executable(2217 백준/2217/2217.cpp)
